@@ -1,0 +1,23 @@
+{
+  "email": "psaikumar10931@gmail.com",
+  "cycle": 0,
+  "total_sent": 0,
+  "total_success": 0,
+  "blacklist_log": [],
+  "mode": "schedule",
+  "sched_hour": 3,
+  "sched_minute": 0,
+  "interval_hours": 24,
+  "phase": "idle",
+  "next_fire": "03:00:00 25/10",
+  "next_fire_ts": 1792877400.0,
+  "last_status": "\u26d4 stopped",
+  "cfg_email": "psaikumar10931@gmail.com",
+  "cfg_threads": 50,
+  "cfg_delay": 0.1,
+  "cfg_duration": 300,
+  "cfg_mode": "schedule",
+  "cfg_hour": 3,
+  "cfg_minute": 0,
+  "cfg_interval": 24
+}
